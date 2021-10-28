@@ -29,3 +29,10 @@ Either use the GitHub app for your operating system (mentioned above) or `git` c
 Then, create a branch for your new changes to sit in. It helps to call the branch something related to the changes you are going to make.
 
     git checkout -b your_name_branch
+
+# Getting started and prerequisites
+
+For contributing to the tutorial the following is needed to get started:
+
+* a [GitHub account](https://github.com)
+* in the case of complex edits familiarity with [Git command line basics](https://help.github.com/articles/set-up-git) or familiarity with an app ([Windows](https://windows.github.com/), [Mac](https://mac.github.com/)) to push your edits made on your computer to GitHub.
